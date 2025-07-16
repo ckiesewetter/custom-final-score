@@ -622,9 +622,9 @@ input[type="submit"]{
         <div class="col-lg-3 col-md-6 single-footer-widget">
           <h4>Where to find us</h4>
           <ul>
-            <li>726 E Anaheim St</li>
-            <li>Wilmington, CA</li>
-            <li>90744 US</li>
+            <li>2204 Harpers Crossing </li>
+            <li>Langhonre PA</li>
+            <li>19047 US</li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6 single-footer-widget">
